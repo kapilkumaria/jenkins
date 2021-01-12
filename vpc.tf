@@ -1,7 +1,7 @@
 provider "aws" {
     region = "ca-central-1"
-    shared_credentials_file = "/root/.aws/credentials"
-    profile = "kkprofile"
+    #shared_credentials_file = "/root/.aws/credentials"
+    #profile = "kkprofile"
 
 }
 
